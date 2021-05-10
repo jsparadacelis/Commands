@@ -55,7 +55,7 @@ Also, you can use makefile commands:
 To use this project, you can execute http calls using [httpie](https://httpie.io/) client.
 
 1. Store command.
-    - ```http POST http://0.0.0.0:5001/task/ cmd="ls" ```
+    - ``` http POST http://0.0.0.0:5001/task/ cmd="ls" ```
     ![](post-command.png)
 
 2. Get command.
